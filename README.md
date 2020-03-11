@@ -1,2 +1,5 @@
-# P-sec-spring2020-lab
-code or scripts used for labs during for Perimeter Security spring of 2020
+# Perimeter Security SSL-lab
+Creates and populates the /etc/conf-available/ssl_params.conf for the lab
+chmod 755 ssl_conf.sh
+sudo ./ssl_conf.sh
+
